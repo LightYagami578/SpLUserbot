@@ -1,5 +1,5 @@
 from pyrogram import Client as yashu, filters, enums
-from . import hl, verify, eor
+from . import hl, verify, eor, add_command 
 from Spoiled.Database.invite import *
 import asyncio 
 import time
